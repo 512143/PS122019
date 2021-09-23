@@ -28,6 +28,7 @@ namespace _512143
         {
             services.AddControllers();
             services.AddDbContext<NoteContext>(opt => opt.UseInMemoryDatabase("NameDataBase"));
+            services.AddDbContext<UserContext>(opt => opt.UseInMemoryDatabase("NameDataBase"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
