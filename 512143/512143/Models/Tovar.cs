@@ -11,5 +11,6 @@ namespace _512143.Models
         public string name { get; set; }
         public int sum { get; set; }
 
+
     }
 }

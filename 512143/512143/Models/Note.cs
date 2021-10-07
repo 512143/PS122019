@@ -11,6 +11,7 @@ namespace _512143.Models
 
         public string Title { get; set; }
 
-        public string Text { get; set; }
+        public string Body { get; set; }
+        public DateTime? CreateTime { get; set; }
     }
 }
