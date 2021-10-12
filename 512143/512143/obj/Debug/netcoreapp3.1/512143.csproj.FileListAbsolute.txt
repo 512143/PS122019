@@ -1,6 +1,5 @@
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\512143.exe
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\512143.deps.json
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\512143.runtimeconfig.json
@@ -151,3 +150,4 @@ C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\obj\Debug\netcoreapp3.1\512143.csproj.CoreCompileInputs.cache
 C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\obj\Debug\netcoreapp3.1\512143.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\StudentDev\Documents\GitHub\PS122019\512143\512143\obj\Debug\netcoreapp3.1\scopedcss\bundle\512143.styles.css

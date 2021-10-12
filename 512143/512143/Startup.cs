@@ -26,6 +26,7 @@ namespace _512143
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
             services.AddControllers();
             services.AddDbContext<NoteContext>(opt => opt.UseInMemoryDatabase("NameDataBase"));
             services.AddDbContext<UserContext>(opt => opt.UseInMemoryDatabase("NameDataBase"));
@@ -39,6 +40,8 @@ namespace _512143
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyMethod());
 
             app.UseRouting();
 
