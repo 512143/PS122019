@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\512143.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\512143.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\512143.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\512143.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\512143.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\512143.csproj",
         "projectName": "512143",
-        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\512143.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\512143.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
@@ -89,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -41,8 +41,8 @@ namespace _512143
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyMethod());
-            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyHeader());
+            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyMethod().AllowAnyHeader());
+            
 
             app.UseRouting();
 

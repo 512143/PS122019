@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVe6UsKTdTU2sihvLJl/dATB4O3Qcrzs3C7s+udOdUbdwlALq1bvC1oGSR+82GgVQ7w0GRka4FRmVP2J+eNteA==",
+  "dgSpecHash": "GirQUezgvA0ihWc4Drm3JTSJ1Pzc3bG2L2LpnVXM18IzRb/aaYncgPlfhrsdlOIM7A2XpayVAe4ieqXDkdMXRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\512143\\512143\\512143.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019_512143\\512143\\512143\\512143.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StudentDev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
